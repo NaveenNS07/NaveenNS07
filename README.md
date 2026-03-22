@@ -1,52 +1,56 @@
 # 👋 Hi, I'm Naveen
 
-🚀 **Full Stack Developer | Java | Flutter | AI Enthusiast**
-💡 Turning ideas into real-world applications
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%7C+Flutter+%7C+AI;Building+Cool+Projects;Always+Learning+New+Things&center=true&width=500&height=50">
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-* 🔭 Currently working on **AI-based projects & Web Applications**
-* 🌱 Learning **Cloud (GCP), Kubernetes & Advanced Java**
-* 💬 Ask me about **Java, Flutter, MERN Stack**
-* ⚡ Fun fact: I love anime 🎌
+* 🔭 Working on **AI & Full Stack Projects**
+* 🌱 Learning **Cloud, Kubernetes & System Design**
+* 💬 Ask me about **Java, Flutter, MERN**
+* ⚡ Love anime & coding 💻🔥
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
-Java | Python | JavaScript
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### 🌐 Web Development
+### 🌐 Web
 
-HTML | CSS | React | Node.js
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
-### 📱 Mobile Development
+### 📱 Mobile
 
-Flutter
-
-### ☁️ Cloud & Tools
-
-GCP | Git | GitHub | Firebase
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenNS07\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=NaveenNS07\&show_icons=true\&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaveenNS07\&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaveenNS07\&theme=tokyonight)
 
 ---
 
 ## 🧠 Currently Learning
 
-* Kubernetes & Microservices
-* System Design
+* Kubernetes
 * AI & Machine Learning
+* Advanced Backend Development
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=NaveenNS07\&theme=onedark)
 
 ---
 
@@ -61,15 +65,14 @@ GCP | Git | GitHub | Firebase
 
 ## 🌐 Connect with Me
 
-* 📧 Email: [mmnaveen202006@gmail.com](mailto:yourmail@gmail.com)
-* 🔗 LinkedIn: https://linkedin.com/in/mmnaveenns07
-* 🌍 Portfolio: Coming Soon
+* 📧 [yourmail@gmail.com](mailto:yourmail@gmail.com)
+* 🔗 https://linkedin.com/in/yourprofile
 
 ---
 
-## ⚡ Fun Zone
+## 👀 Profile Views
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things\&center=true\&width=500\&height=50)
+![Visitor Count](https://komarev.com/ghpvc/?username=NaveenNS07\&color=blue)
 
 ---
 
