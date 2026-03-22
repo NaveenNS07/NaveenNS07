@@ -56,6 +56,8 @@ fun: "Anime + Coding 💻🔥"
 * 📧 [yourmail@gmail.com](mailto:yourmail@gmail.com)
 * 🔗 https://linkedin.com/in/yourprofile
 
+![Snake animation](https://github.com/NaveenNS07/NaveenNS07/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ⭐️ From NaveenNS07
